@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-19.0-blue)](https://react.dev/)
-
+live link :: https://thesteadyin.netlify.app/#/
 
 </div>
 
